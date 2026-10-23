@@ -1,0 +1,15 @@
+.nav{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 20px;
+}
+.menu{
+    margin-top: 5px;
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    font-size: 12px;
+}

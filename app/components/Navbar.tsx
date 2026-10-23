@@ -11,9 +11,9 @@ const menu = [
 export default function Navbar() {
   return (
     <nav className={styles.nav}>
-      <Link href="/" className={styles.logo}>
+      <h1 className={styles.logo}>
         Fedri Marcello
-      </Link>
+      </h1>
       <ul className={styles.menu}>
         {menu.map((item) => (
           <li key={item.href}>

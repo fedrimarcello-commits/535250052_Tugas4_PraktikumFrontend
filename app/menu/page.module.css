@@ -1,0 +1,17 @@
+.container {
+  margin: 20px 10px;
+}
+
+.container h1 {
+  margin-bottom: 8px;
+}
+
+.container p {
+  margin-bottom: 16px;
+}
+
+.grid {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}

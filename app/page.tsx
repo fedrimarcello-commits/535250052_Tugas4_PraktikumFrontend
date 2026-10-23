@@ -37,7 +37,7 @@ export default function Home() {
           <h1>Es Jeruk Segar</h1>
           <p> Beli Es Jeruk di hari yang panas</p>
           <div className={styles.tombolhero}>
-            <Button href="/">Pesan Sekarang</Button>
+            <Button href="/menu">Pesan Sekarang</Button>
           </div>
       </section>
 

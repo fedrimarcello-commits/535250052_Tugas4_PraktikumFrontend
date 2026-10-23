@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <nav className={styles.nav}>
       <h1 className={styles.logo}>
-        Fedri Marcello
+        Jeruk Es Segar
       </h1>
       <ul className={styles.menu}>
         {menu.map((item) => (

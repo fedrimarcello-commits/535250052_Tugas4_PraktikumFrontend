@@ -24,7 +24,7 @@ export default function Footer() {
         </div>
       </div>
 
-      <p className={styles.copyright}>© Es Jeruk Segar</p>
+      <p className={styles.copyright}>© Fedri Marcello</p>
     </footer>
   );
 }

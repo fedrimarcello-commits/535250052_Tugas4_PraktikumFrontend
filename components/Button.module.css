@@ -1,18 +1,18 @@
 .tombols {
   display: inline-block;
-  padding: 8px 16px;
+  padding: 10px 20px;
   line-height: 1.4;
   border-radius: 8px;
   text-decoration: none;
-  font-weight: 500;
-  background: #1a56db;
+  font-weight: 600;
+  background: #ea580c;
   color: #ffffff;
-  border: 2px solid #1a56db;
+  border: 1px solid #ea580c;
   transition: background 0.2s;
   width: fit-content;
 }
 
 .tombols:hover {
-  background: #1e429f;
-  border-color: #1e429f;
+  background: #c2410c;
+  border-color: #c2410c;
 }

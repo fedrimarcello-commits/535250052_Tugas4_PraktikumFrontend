@@ -13,7 +13,6 @@ export default function MenuCard({ slug, name, description, image }: MenuCardPro
   return (
     <article className={styles.card}>
       <Link href={`/menu/${slug}`} className={styles.link}>
-        <h3>{name}</h3>
         <Image
           src={image}
           alt={name}
@@ -21,6 +20,7 @@ export default function MenuCard({ slug, name, description, image }: MenuCardPro
           height={300}
           className={styles.image}
         />
+        <h3>{name}</h3>
         <p>{description}</p>
       </Link>
     </article>

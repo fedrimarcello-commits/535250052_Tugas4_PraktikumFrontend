@@ -1,15 +1,21 @@
 .nav{
-    margin: 20px;
+    padding: 14px 20px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    border-bottom: 1px solid #f3f4f6;
 }
 .logo{
     font-size: 20px;
+    font-weight: 500;
+    color: #ea580c;
 }
 .menu{
-    margin-top: 5px;
     display: flex;
     list-style: none;
     gap: 20px;
-    font-size: 12px;
+    font-size: 16px;
+    color: #4b5563;
 }
+

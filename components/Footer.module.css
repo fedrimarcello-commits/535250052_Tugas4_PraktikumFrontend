@@ -1,7 +1,8 @@
 .footer {
   margin-top: auto;
   padding: 24px 20px 12px;
-  border-top: 1px solid #e5e7eb;
+  background: #ea580c;
+  color: #ffffff;
   font-size: 13px;
   line-height: 1.5;
 }
@@ -17,18 +18,15 @@
 
 .columns h3 {
   font-size: 15px;
-  color: #111827;
   margin-bottom: 4px;
 }
 
 .columns h4 {
   font-size: 13px;
-  color: #111827;
   margin-bottom: 6px;
 }
 
 .columns a:hover {
-  color: #111827;
   text-decoration: underline;
 }
 
@@ -43,9 +41,8 @@
   max-width: 960px;
   margin: 20px auto 0;
   padding-top: 12px;
-  border-top: 1px solid #e5e7eb;
+  border-top: 1px solid #fdba74;
   text-align: center;
-  color: #9ca3af;
+  font-weight: 600;
   font-size: 12px;
 }
-

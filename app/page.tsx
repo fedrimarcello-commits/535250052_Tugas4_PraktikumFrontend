@@ -38,6 +38,7 @@ export default function Home() {
           <p> Beli Es Jeruk di hari yang panas</p>
           <div className={styles.tombolhero}>
             <Button href="/menu">Pesan Sekarang</Button>
+            <Button href="/menu" className={styles.tombolgaris}>Lihat Menu</Button>
           </div>
       </section>
 

@@ -3,9 +3,12 @@
   text-decoration: none;
 }
 
+.link:hover {
+  color: #ea580c;
+}
+
 .active {
-  color: inherit;
+  color: #ea580c;
   text-decoration: none;
-  font-weight: bold;
   border-bottom: 2px solid currentColor;
 }

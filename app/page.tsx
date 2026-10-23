@@ -1,5 +1,5 @@
 import styles from "./page.module.css";
-import Button from "./components/Button";
+import Button from "@/components/Button";
 
 export default function Home() {
   return (
@@ -10,5 +10,6 @@ export default function Home() {
           <Button href="/">Pesan Sekarang</Button>
         </div>
     </section>
+
   );
 }

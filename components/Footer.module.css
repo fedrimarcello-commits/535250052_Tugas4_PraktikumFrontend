@@ -1,0 +1,31 @@
+.footer {
+  margin-top: 64px;
+  padding: 32px 16px 16px;
+  border-top: 1px solid #e5e7eb;
+  font-size: 14px;
+}
+
+.columns {
+  display: grid;
+  gap: 24px;
+}
+
+.links {
+  list-style: none;
+}
+
+.copyright {
+  margin-top: 32px;
+  text-align: center;
+  color: #6b7280;
+}
+
+@media (min-width: 768px) {
+  .footer {
+    padding: 48px 32px 16px;
+  }
+
+  .columns {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

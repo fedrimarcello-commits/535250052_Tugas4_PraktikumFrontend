@@ -5,10 +5,6 @@ export default function Footer() {
     return (
     <footer className={styles.footer}>
       <div className={styles.columns}>
-        <div>
-          <h3>Es Jeruk Segar</h3>
-          <p>Beli es jeruk di hari yang panas.</p>
-        </div>
 
         <div>
           <h4>Halaman</h4>
@@ -21,9 +17,9 @@ export default function Footer() {
 
         <div>
           <h4>Kontak</h4>
-          <p>Jl. Merdeka No. 10, Bandung</p>
-          <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer">
-            WhatsApp
+          <p>Jl. Baru Desa Trubus</p>
+          <a href="https://wa.me/6281234567890" target="_blank">
+            WhatsApp Penjual
           </a>
         </div>
       </div>

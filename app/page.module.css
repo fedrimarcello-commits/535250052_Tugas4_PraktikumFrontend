@@ -9,3 +9,16 @@
   font-size: 10px;
 
 }
+.rekomendasi{
+  margin: 20px 10px;
+}
+
+.rekomendasi h2{
+  margin-bottom: 12px;
+}
+
+.daftarmenu{
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+}

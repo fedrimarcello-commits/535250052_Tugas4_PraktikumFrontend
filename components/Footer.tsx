@@ -18,7 +18,7 @@ export default function Footer() {
         <div>
           <h4>Kontak</h4>
           <p>Jl. Baru Desa Trubus</p>
-          <a href="https://wa.me/6281234567890" target="_blank">
+          <a href="https://wa.me/6281272124925" target="_blank">
             WhatsApp Penjual
           </a>
         </div>

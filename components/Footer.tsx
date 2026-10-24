@@ -10,7 +10,8 @@ export default function Footer() {
           <h4>Halaman</h4>
           <ul className={styles.links}>
             <li><Link href="/">Beranda</Link></li>
-            <li><Link href="/tentang">Tentang</Link></li>
+            <li><Link href="/menu">Menu</Link></li>
+            <li><Link href="/about">Tentang</Link></li>
             <li><Link href="/kontak">Kontak</Link></li>
           </ul>
         </div>
